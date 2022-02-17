@@ -17,9 +17,9 @@ Before a release doil needs to be tested deeply. For that we implemented a manda
 
 ### Import / Export
 
-* [ ] An instance can be exported into ZIP file
+* [x] An instance can be exported into ZIP file
 * [ ] retrieved ZIP file can be imported into an existing instance
-* [ ] retrieved ZIP file can be imported into a new instance
+* [x] retrieved ZIP file can be imported into a new instance
 
 ### Manage an existing instance
 
