@@ -6,14 +6,14 @@ Before a release doil needs to be tested deeply. For that we implemented a manda
 
 ### Creating a new instance
 
-* [ ] Instance can be created
+* [x] Instance can be created
 * [ ] Instance can be created with specific target directory
-* [ ] All states will be applied correctly
-* [ ] Combination: ILIAS 7 + PHP 7.3 works
+* [x] All states will be applied correctly
+* [x] Combination: ILIAS 7 + PHP 7.3 works
 * [ ] Combination: ILIAS 8 + PHP 8.0 works
 * [ ] ilServer works (certificates can be shown)
 * [ ] Cron works (checked in ILIAS backend)
-* [ ] Optional: Autoinstaller works for ILIAS 7+
+* [x] Optional: Autoinstaller works for ILIAS 7+
 
 ### Import / Export
 
@@ -23,14 +23,14 @@ Before a release doil needs to be tested deeply. For that we implemented a manda
 
 ### Manage an existing instance
 
-* [ ] Instance can be started
-* [ ] Instance is reachable from the browser
-* [ ] It is possible to login via cli
-* [ ] Instance contains the data when left
-* [ ] Instance can be stopped
-* [ ] A state can be applied
-* [ ] Instance can be deleted
-* [ ] The active directory can be switched to an instance
+* [x] Instance can be started
+* [x] Instance is reachable from the browser
+* [x] It is possible to login via cli
+* [x] Instance contains the data when left
+* [x] Instance can be stopped
+* [x] A state can be applied
+* [x] Instance can be deleted
+* [x] The active directory can be switched to an instance
 
 ### Repository
 
@@ -41,30 +41,30 @@ Before a release doil needs to be tested deeply. For that we implemented a manda
 
 ### Managing the proxy server
 
-* [ ] the server can be started
-* [ ] the server can be stopped
-* [ ] the server can be restarted
-* [ ] the server can be pruned (config files)
-* [ ] the configurations of the server can be reloaded
-* [ ] Changing host is possible
-* [ ] it's possible to login via cli
+* [x] the server can be started
+* [x] the server can be stopped
+* [x] the server can be restarted
+* [x] the server can be pruned (config files)
+* [x] the configurations of the server can be reloaded
+* [x] Changing host is possible
+* [x] it's possible to login via cli
 
 ### Managing the salt server
 
-* [ ] the server can be started
-* [ ] the server can be stopped
-* [ ] the server can be restarted
-* [ ] the server can be pruned (keys)
-* [ ] it's possible to login via cli
-* [ ] the available states can be listed
+* [x] the server can be started
+* [x] the server can be stopped
+* [x] the server can be restarted
+* [x] the server can be pruned (keys)
+* [x] it's possible to login via cli
+* [x] the available states can be listed
 
 ### Additional functionalities
 
-* [ ] Currently installed instances can be listed
-* [ ] Currently running instances can be listed
+* [x] Currently installed instances can be listed
+* [x] Currently running instances can be listed
 * [ ] doil can be deinstalled (instances remain)
-* [ ] Version can be displayed
-* [ ] Each command has its help page
+* [x] Version can be displayed
+* [ ] Each command has its help page (sample)
 
 ### Global User Support (Linux only)
 
