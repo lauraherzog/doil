@@ -34,10 +34,10 @@ Before a release doil needs to be tested deeply. For that we implemented a manda
 
 ### Repository
 
-* [ ] A repository can be added
-* [ ] A repository can be deleted
-* [ ] A repository can be updated
-* [ ] The list with the available repositories shows the actual repositories
+* [x] A repository can be added
+* [x] A repository can be deleted
+* [x] A repository can be updated
+* [x] The list with the available repositories shows the actual repositories
 
 ### Managing the proxy server
 
