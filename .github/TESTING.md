@@ -68,9 +68,9 @@ Before a release doil needs to be tested deeply. For that we implemented a manda
 
 ### Global User Support (Linux only)
 
-* [ ] A new user can be added to the doil group
-* [ ] A user can be removed from the doil group
-* [ ] Registered users can be listed
+* [x] A new user can be added to the doil group
+* [x] A user can be removed from the doil group
+* [x] Registered users can be listed
 
 ## Environments
 
