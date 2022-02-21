@@ -10,7 +10,7 @@ Before a release doil needs to be tested deeply. For that we implemented a manda
 * [x] Instance can be created with specific target directory
 * [x] All states will be applied correctly
 * [x] Combination: ILIAS 7 + PHP 7.3 works
-* [ ] Combination: ILIAS 8 + PHP 8.0 works
+* [x] Combination: ILIAS 8 + PHP 8.0 works
 * [ ] ilServer works (certificates can be shown)
 * [ ] Cron works (checked in ILIAS backend)
 * [x] Optional: Autoinstaller works for ILIAS 7+
